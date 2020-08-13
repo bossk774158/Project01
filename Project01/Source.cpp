@@ -1,7 +1,7 @@
 #include <stdio.h>
 void pyramid(int n)
 {
-    int i[1000], j[1000], space;
+    int i, j, space;
     for (i = 1; i <= n; i++)
     {
 
